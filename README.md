@@ -1,3 +1,11 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Anikesh+Kumar+Mishra;Full+Stack+Developer;SaaS+Platform+Builder;Cloud+%7C+AWS+Enthusiast;Cybersecurity+Learner;Developer+at+CODE4UTECH+CONSULTANCY+PVT.+LTD."/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anikesh%20Kumar%20Mishra&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Anikesh Kumar Mishra</h1>
 
 <h3 align="center">
@@ -58,11 +66,11 @@
 
 ---
 
-# 🛠 Tech Stack
+# 🧠 Tech Stack
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,laravel,java,tailwind,js,html,css,mysql,aws,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,php,laravel,java,js,html,css,tailwind,mysql,aws,git,linux,docker" />
 
 </p>
 
@@ -72,13 +80,22 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anikeshsonu&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anikeshsonu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikeshsonu&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikeshsonu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anikeshsonu&theme=tokyo-night"/>
+
+</p>
+
 
 # 📈 GitHub Activity
 
@@ -107,3 +124,7 @@
 ---
 
 ⭐ If you like my work, consider following my profile!
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
