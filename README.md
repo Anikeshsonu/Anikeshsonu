@@ -2,18 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Anikesh+Kumar+Mishra;Full+Stack+Developer;SaaS+Platform+Builder;Cloud+%7C+AWS+Enthusiast;Cybersecurity+Learner;Developer+at+CODE4UTECH+CONSULTANCY+PVT.+LTD."/>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anikesh%20Kumar%20Mishra&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<h3 align="center">
-🚀 Full-Stack Developer | SaaS Builder | Cloud Enthusiast
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+PHP+%7C+Laravel;TailwindCSS+Developer;AWS+Cloud+Enthusiast;Cybersecurity+Learner">
-</p>
-
 ---
 
 # 💫 About Me
