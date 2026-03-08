@@ -6,8 +6,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anikesh%20Kumar%20Mishra&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Anikesh Kumar Mishra</h1>
-
 <h3 align="center">
 🚀 Full-Stack Developer | SaaS Builder | Cloud Enthusiast
 </h3>
